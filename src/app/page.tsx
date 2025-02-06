@@ -12,7 +12,7 @@ export default function Home() {
           height={60}
           priority
         />
-        <h1 className="text-2xl font-bold">Hello, welcome to my website! I'm StormChaser.</h1>
+        <h1 className="text-2xl font-bold">Hello, welcome to my website! I&apos;m StormChaser.</h1>
       </main>
     </div>
   );
