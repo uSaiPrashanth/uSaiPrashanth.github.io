@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
+  <style>
+    .text {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      fill: #000;
+    }
+    .background {
+      fill: #f0f0f0;
+    }
+    .border {
+      fill: none;
+      stroke: #000;
+      stroke-width: 4;
+    }
+  </style>
+  <rect class="background" width="220" height="60" rx="20" ry="20"/>
+  <rect class="border" width="220" height="60" rx="20" ry="20"/>
+  <text class="text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">StormChaser</text>
+</svg>
